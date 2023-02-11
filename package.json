@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "primera creacion",
+  "main": "papa.js",
+  "scripts": {
+    "start": "node papa.js",
+    "papafrita": "papa.html"
+  },
+  "keywords": [],
+  "author": "valentina osma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentinaosmo/salchicha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Valentinaosmo/salchicha/issues"
+  },
+  "homepage": "https://github.com/Valentinaosmo/salchicha#readme",
+  "devDependencies": {
+    "is-number": "^7.0.0"
+  },
+  "dependencies": {
+    "orc-me": "^1.1.6"
+  }
+}
